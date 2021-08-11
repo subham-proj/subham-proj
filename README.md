@@ -25,4 +25,7 @@
 
 <br></br>
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham-proj" alt="subham-proj" /></p>
+
+<br></br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subham-proj&" alt="subham-proj" /></p>
