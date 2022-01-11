@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Subham Singh</h1>
-<h3 align="center">Passionate Developer & Coder</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <br></br>
 
