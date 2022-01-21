@@ -15,6 +15,16 @@
 - 📝 LinkedIn [`https://www.linkedin.com/in/subham-singh-cc/`](https://www.linkedin.com/in/subham-singh-cc/)
 
 - 📫 Contact me **`subham.dev20@gmail.com`**
+
+<div align="center">
+<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/github/followers/subham-proj.svg?style=social&label=Follow"></img>
+
+<img src="https://gpvc.arturio.dev/subham-proj"></img>
+</div>
 <br></br>
 <br></br>
 <h1>Technical Skills 🛠</h1>
