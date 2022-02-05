@@ -16,16 +16,6 @@
 
 - 📫 Contact me **`subham.dev20@gmail.com`**
 
-<div align="center">
-<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
-</div>
-
-<div align="center">
-<img src="https://img.shields.io/github/followers/subham-proj.svg?style=social&label=Follow"></img>
-
-<img src="https://gpvc.arturio.dev/subham-proj"></img>
-</div>
-<br></br>
 <br></br>
 <h1>Technical Skills 🛠</h1>
 
@@ -48,6 +38,10 @@
 
 <br></br>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=subham-proj&theme=dracula&hide_border=true)
+
+<br></br>
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subham-proj&show_icons=true&locale=en" alt="subham-proj" /></p>
 
 <br></br>
@@ -56,3 +50,14 @@
 
 <br></br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subham-proj&" alt="subham-proj" /></p>
+
+<br></br>
+<div align="center">
+<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/github/followers/subham-proj.svg?style=social&label=Follow"></img>
+
+<img src="https://gpvc.arturio.dev/subham-proj"></img>
+</div>
