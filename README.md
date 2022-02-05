@@ -45,11 +45,6 @@
 
 <br></br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham-proj" alt="subham-proj" /></p>
-
-<br></br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subham-proj&show_icons=true&locale=en" alt="subham-proj" /></p>
-
 
 <br></br>
 <div align="center">
