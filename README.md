@@ -41,15 +41,15 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=subham-proj&theme=dracula&hide_border=true)
 
 <br></br>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subham-proj&show_icons=true&locale=en" alt="subham-proj" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subham-proj&" alt="subham-proj" /></p>
 
 <br></br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham-proj" alt="subham-proj" /></p>
 
 <br></br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subham-proj&" alt="subham-proj" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subham-proj&show_icons=true&locale=en" alt="subham-proj" /></p>
+
 
 <br></br>
 <div align="center">
