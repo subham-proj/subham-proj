@@ -8,10 +8,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subham-proj" alt="subham-proj" /></a> </p>
 <br></br>
 
-- 👨‍💻 All of my projects are available at [`http://subham-portfolio.netlify.app/projects`](http://subham-portfolio.netlify.app/projects)
-
-- 📝 Hashnode [`https://subham-cc99.hashnode.dev/`](https://subham-cc99.hashnode.dev/)
-
 - 📝 LinkedIn [`https://www.linkedin.com/in/subham-singh-cc/`](https://www.linkedin.com/in/subham-singh-cc/)
 
 - 📫 Contact me **`subham.dev20@gmail.com`**
