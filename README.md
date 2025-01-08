@@ -1,15 +1,15 @@
 # 👋 Hi there, I'm [Subham Singh]
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C8AF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C8AF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
 Full Stack Developer passionate about creating elegant solutions to complex problems. I specialize in building scalable web applications with modern technologies.
 
-[![GitHub followers](https://img.shields.io/github/followers/subham-proj?label=Follow&style=social)](https://github.com/YOUR_USERNAME)
-[![Twitter: YourTwitter](https://img.shields.io/twitter/follow/subhamsng?style=social)](https://twitter.com/YOUR_TWITTER)
+[![GitHub followers](https://img.shields.io/github/followers/subham-proj?label=Follow&style=social)](https://github.com/subham-proj)
+[![Twitter: YourTwitter](https://img.shields.io/twitter/follow/subhamsng?style=social)](https://twitter.com/subhamsng)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subham-singh-cc/)](subham-singh-cc)
 
 ## 💻 Tech Stack
@@ -80,7 +80,6 @@ Full Stack Developer passionate about creating elegant solutions to complex prob
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=subham-proj&theme=nord&column=7" alt="GitHub Trophies" />
 </div>
-
 
 ## 📫 How to reach me
 
