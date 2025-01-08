@@ -81,11 +81,6 @@ Full Stack Developer passionate about creating elegant solutions to complex prob
   <img src="https://github-profile-trophy.vercel.app/?username=subham-proj&theme=nord&column=7" alt="GitHub Trophies" />
 </div>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=subham-proj&theme=github" alt="Contribution Graph" />
-</div>
 
 ## 📫 How to reach me
 
