@@ -11,6 +11,7 @@ Full Stack Developer passionate about creating elegant solutions to complex prob
 [![GitHub followers](https://img.shields.io/github/followers/subham-proj?label=Follow&style=social)](https://github.com/subham-proj)
 [![Twitter: YourTwitter](https://img.shields.io/twitter/follow/subhamsng?style=social)](https://twitter.com/subhamsng)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subham-singh-cc/)](subham-singh-cc)
+[![Peerlist](https://github-readme-badge.peerlist.io/api/subhamsingh12)](https://peerlist.io/subhamsingh12)
 
 ## 💻 Tech Stack
 
