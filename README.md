@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Subham Singh]
+# 👋 Hi there, I'm Subham Singh
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C8AF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG" />
